@@ -37,7 +37,7 @@ body,
   grid-template-columns: 1fr 1fr 1fr;
   align-items: center;
   height: 100%;
-  padding: 4px 1rem;
+  padding: 4px 4px;
 }
 
 .card {
