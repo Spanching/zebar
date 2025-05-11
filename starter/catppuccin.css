@@ -1,0 +1,30 @@
+
+:root {
+    /* frappe (dark) */
+    --ctp-frappe-rosewater: 242, 213, 207;
+    --ctp-frappe-flamingo: 238, 190, 190;
+    --ctp-frappe-pink: 244, 184, 228;
+    --ctp-frappe-mauve: 202, 158, 230;
+    --ctp-frappe-red: 231, 130, 132;
+    --ctp-frappe-maroon: 234, 153, 156;
+    --ctp-frappe-peach: 239, 159, 118;
+    --ctp-frappe-yellow: 229, 200, 144;
+    --ctp-frappe-green: 166, 209, 137;
+    --ctp-frappe-teal: 129, 200, 190;
+    --ctp-frappe-sky: 153, 209, 219;
+    --ctp-frappe-sapphire: 133, 193, 220;
+    --ctp-frappe-blue: 140, 170, 238;
+    --ctp-frappe-lavender: 186, 187, 241;
+    --ctp-frappe-text: 198, 208, 245;
+    --ctp-frappe-subtext1: 226.667 43.689% 79.804%;
+    --ctp-frappe-subtext0: 228.293 29.496% 72.745%;
+    --ctp-frappe-overlay2: 227.692 22.286% 65.686%;
+    --ctp-frappe-overlay1: 226.667 16.981% 58.431%;
+    --ctp-frappe-overlay0: 229.091 13.36% 51.569%;
+    --ctp-frappe-surface2: 228 13.274% 44.314%;
+    --ctp-frappe-surface1: 227.143 14.737% 37.255%;
+    --ctp-frappe-surface0: 230 15.584% 30.196%;
+    --ctp-frappe-base: 229.091 18.644% 23.137%;
+    --ctp-frappe-mantle: 230.526 18.812% 19.804%;
+    --ctp-frappe-crust: 35, 38, 52;
+  }
