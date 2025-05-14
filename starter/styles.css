@@ -112,14 +112,13 @@ body,
   border: none;
   border-radius: 2px;
   cursor: pointer;
-  background-color: rgb(var(--ctp-frappe-blue));
-  color: rgb(var(--ctp-frappe-crust));
-
+  background: rgba(var(--ctp-frappe-blue), 0.8);
+  color: rgba(var(--ctp-frappe-crust), 0.8);
   border-radius: 1rem;
 
   &.displayed {
-    background: rgba(var(--ctp-frappe-blue), 0.8);
-    color: rgba(var(--ctp-frappe-crust), 0.8);
+    background-color: rgb(var(--ctp-frappe-blue));
+    color: rgb(var(--ctp-frappe-crust));
   }
 
   &:hover {
